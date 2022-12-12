@@ -1,0 +1,22 @@
+{
+    "name": "upgrader/imageresizer",
+    "description": "Package for resizing multiple images in multiple dimensions",
+    "type": "package",
+    "keywords": ["php", "multiple", "images", "resize", "scale"],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sohbet Geldinazarow",
+            "email": "sohbetgeldinazarow@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Upgrader\\Image\\": "src/"
+        }
+    }
+}
