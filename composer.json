@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "SGUpgrader\\Image\\": "src/"
+            "Upgrader\\Image\\": "src/"
         }
     }
 }
