@@ -1,4 +1,6 @@
 <?php
+namespace SGUpgrader\Image;
+
 class ImageResizer
 {
     private static $allowedTypes = ["jpg", "png", "jpeg"];
