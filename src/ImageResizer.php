@@ -1,5 +1,5 @@
 <?php
-namespace SGUpgrader\Image;
+namespace Upgrader\Image;
 
 class ImageResizer
 {
