@@ -1,7 +1,7 @@
 {
     "name": "upgrader/imageresizer",
     "description": "Package for resizing multiple images in multiple dimensions",
-    "version": "1.0",
+    "version": "1.0.0",
     "type": "package",
     "keywords": ["php", "multiple", "images", "resize", "scale"],
     "require": {
